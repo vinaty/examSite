@@ -3222,31 +3222,31 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #261c3e;
+			background-color: #000E55;
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #321A70;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #322359;
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #2C003F;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: #47185C;
 		}
 
 		.wrapper.style3 {
-			background-color: #53173D;
+			background-color: #3A0955;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #4E2058;
 		}
 
 		.wrapper.fullscreen {
@@ -3353,10 +3353,14 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5e42a6;
 		cursor: default;
-		padding: 1.75em 2em;
-	}
+		/*padding: 1.75em 1em;*/
+		position: fixed;
+		top: 0;
+		width: 100%;
+		z-index:1000;
+		background-color:#5e42a6;
+		}
 
 		#header > .title {
 			border: 0;
@@ -3372,11 +3376,6 @@ input, select, textarea {
 			-ms-flex: 1;
 			flex: 1;
 			text-align: right;
-			position: fixed;
-			top: 0;
-			width: 90%;
-			z-index:1000;
-			background-color:#5e42a6;  
   
 		}
 
@@ -3495,7 +3494,9 @@ input, select, textarea {
 	#footer > .inner a {
 		border-bottom-color: rgba(255, 255, 255, 0.15);
 	}
-
+#footerli {
+color: #FFFFFF;
+}
 		#footer > .inner a:hover {
 			border-bottom-color: transparent;
 		}
