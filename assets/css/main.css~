@@ -3374,7 +3374,8 @@ input, select, textarea {
 			text-align: right;
 			position: fixed;
 			top: 0;
-			width: 90%;
+			margin-right: 40em;
+			width: 100%;
 			z-index:1000;
 			background-color:#5e42a6;  
   
