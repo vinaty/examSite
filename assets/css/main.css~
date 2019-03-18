@@ -3222,7 +3222,7 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #312450;
+			background-color: #321A70;
 		}
 
 		.wrapper.style1 {

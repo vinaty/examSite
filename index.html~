@@ -15,7 +15,6 @@
 						<li><a href="index.html" class="active">Accueil</a></li>
 						<li><a href="cedn.html">CEDN</a></li>
 						<li><a href="mtrust.html">M-TRUST</a></li>
-						<li><a href="https://www.idemia.com/">IDEMIA</a></li>
 					</ul>
 				</nav>
 			</header>
@@ -26,7 +25,7 @@
 						<ul>
 							<li><a href="#intro">Accueil</a></li>
 							<li><a href="#one">Qui sommes-nous ?</a></li>
-							<li><a href="#two">Que faisons-nous ?</a></li>
+							<li><a href="#two">A notre propos</a></li>
 							<li><a href="#three">Nous contacter</a></li>
 						</ul>
 					</nav>
@@ -41,7 +40,6 @@
 						<div class="inner">
 							<h1>CEDN monitoring</h1>
 							<p>CEDN est une entreprise spécialisé dans le développement des objets connectés.<br>
-							Succursale de la société <a href="https://www.idemia.com/">IDEMIA</a><br>
 							Découvrez-nous et notre produit principale, <a href="mtrust.html">M-TRUST</a>.</p>
 							<ul class="actions">
 								<li><a href="#one" class="button scrolly">Qui sommes-nous ?</a></li>
@@ -56,9 +54,10 @@
 							<div class="content">
 								<div class="inner">
 									<h2>IDEMIA</h2>
-									<p>Le leader des identités augmentées dans un monde<br>de plus en plus digital. <br>Une identité améliorée, adaptable, renforcée et souveraine <br>garantit un monde plus sûr pour chacun</p>
+									<p>Idemia, notre société mère, est le leader des identités augmentées dans un monde de plus en plus digital.<br>
+									Une identité améliorée, adaptable, renforcée et souveraine garantit un monde plus sûr pour chacun</p>
 									<ul class="actions">
-										<li><a href="https://www.idemia.com/" class="button">En savoir plus</a></li>
+										<li><a href="https://www.idemia.com/" class="button">Visiter leur site</a></li>
 									</ul>
 								</div>
 							</div>
@@ -92,13 +91,13 @@
 				<!-- Two -->
 					<section id="two" class="wrapper style3 fade-up">
 						<div class="inner">
-							<h2>Que faisons-nous ?</h2>
-							<p>CEDN a souhaité s'implanter dans la Manche afin de faire valoir les talents présents dans cette région. Découvrez ce que nous proposons :</p>
+							<h2>A notre propose</h2>
+							<p>CEDN a souhaité s'implanter dans la Manche afin de faire valoir les talents présents dans cette région. Découvrez les points-clefs de notre entreprise</p>
 							<div class="features">
 								<section>
 									<span class="icon major fa-code"></span>
 									<h3>M-TRUST</h3>
-									<p>Notre produit phare<a href="mtrust.html" class="button">Découvrir M-TRUST</a></p>
+									<p>Notre produit phare pour accélérer la transformation numérique des entreprises et des industries </p>
 								</section>
 								<section>
 									<span class="icon major fa-lock"></span>
@@ -107,28 +106,25 @@
 								</section>
 								<section>
 									<span class="icon major fa-cog"></span>
-									<h3>Sed erat ullam corper</h3>
-									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+									<h3>Une équipe locale</h3>
+									<p>Les employés sont plus heureux et plus impliqués lorsqu’ils travaillent sur des outils en lesquels ils croient et ceux, proche de chez eux.</p>
 								</section>
 								<section>
 									<span class="icon major fa-desktop"></span>
-									<h3>Veroeros quis lorem</h3>
-									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+									<h3>Ce en quoi nous croyons</h3>
+									<p>La base de notre engagement : créer un monde meilleur, riche d’expériences digitales plus intenses, grâce à des technologies et des produits innovants.</p>
 								</section>
 								<section>
 									<span class="icon major fa-chain"></span>
-									<h3>Urna quis bibendum</h3>
-									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+									<h3>Mobilité</h3>
+									<p>Le monde de l’entreprise n’a jamais été aussi mobile. Voilà pourquoi nos produits sont conçus pour donner aux professionnels les moyens de prendre les meilleures décisions, où qu’ils se trouvent.</p>
 								</section>
 								<section>
 									<span class="icon major fa-diamond"></span>
-									<h3>Aliquam urna dapibus</h3>
-									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+									<h3>Développement durable</h3>
+									<p>En tant qu'entreprise citoyenne globale, nous assumons notre responsabilité sociale, nous proposons des produits et des services innovants, et nous créons de la valeur économique, sociale et environnementale.</p>
 								</section>
 							</div>
-							<ul class="actions">
-								<li><a href="generic.html" class="button">Learn more</a></li>
-							</ul>
 						</div>
 					</section>
 
