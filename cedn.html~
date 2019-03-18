@@ -17,7 +17,6 @@
 						<li><a href="index.html">Accueil</a></li>
 						<li><a href="cedn.html" class="active">CEDN</a></li>
 						<li><a href="mtrust.html">M-TRUST</a></li>
-						<li><a href="https://www.idemia.com/">IDEMIA</a></li>
 					</ul>
 				</nav>
 			</header>
@@ -30,7 +29,7 @@
 						<div class="inner">
 							<h1 class="major">Notre entreprise</h1>
 							<span class="image left"><img src="images/pic04.jpg" alt=""/></span>
-							<p>CEDN monitoring souhaite permettre à des pays, communautés, clients et personnes du monde entier de psans que la sécurisationouvoir utiliser les dernières technologies sans se demander si les équipements sont sécurisés ou non. </p>
+							<p>CEDN monitoring souhaite permettre à des pays, communautés, clients et personnes du monde entier de pouvoir utiliser les dernières technologies sans se demander si les équipements sont sécurisés ou non. </p>
 							<p>Notre monde change rapidement et les objets connectés sont aujourd'hui partout sans être sécurisé. Notre volonté est donc de résoudre cette question.</p>
 						</div>
 						<div class="inner"></div>

@@ -39,8 +39,8 @@
 					<section id="intro" class="wrapper style1 fullscreen fade-up">
 						<div class="inner">
 							<h1>CEDN monitoring</h1>
-							<p>CEDN est une entreprise spécialisé dans le développement des objets connectés.<br>
-							Découvrez-nous et notre produit principale, <a href="mtrust.html">M-TRUST</a>.</p>
+							<p>CEDN est une entreprise spécialisée dans le développement des objets connectés.<br>
+							Découvrez-nous et notre produit principal, <a href="mtrust.html">M-TRUST</a>.</p>
 							<ul class="actions">
 								<li><a href="#one" class="button scrolly">Qui sommes-nous ?</a></li>
 							</ul>
@@ -55,9 +55,9 @@
 								<div class="inner">
 									<h2>IDEMIA</h2>
 									<p>Idemia, notre société mère, est le leader des identités augmentées dans un monde de plus en plus digital.<br>
-									Une identité améliorée, adaptable, renforcée et souveraine garantit un monde plus sûr pour chacun</p>
+									Une identité améliorée, adaptable, renforcée et souveraine garantit un monde plus sûr pour chacun.</p>
 									<ul class="actions">
-										<li><a href="https://www.idemia.com/" class="button">Visiter leur site</a></li>
+										<li><a href="https://www.idemia.com/" target="_blank" class="button">Visiter leur site</a></li>
 									</ul>
 								</div>
 							</div>
@@ -91,7 +91,7 @@
 				<!-- Two -->
 					<section id="two" class="wrapper style3 fade-up">
 						<div class="inner">
-							<h2>A notre propose</h2>
+							<h2>A notre propos</h2>
 							<p>CEDN a souhaité s'implanter dans la Manche afin de faire valoir les talents présents dans cette région. Découvrez les points-clefs de notre entreprise</p>
 							<div class="features">
 								<section>
